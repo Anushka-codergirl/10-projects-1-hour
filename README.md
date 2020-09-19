@@ -1,6 +1,6 @@
 # [10 Projects in 1 Hour](https://10projects1hour-anush.netlify.app/)
 
-[1.Auto Write Text](https://10projects1hour-anush.netlify.app/auto-write-text/)
+[1.Auto Write Text](https://10projects1hour-anush.netlify.app/auto-write-text/) <br/>
 [2.Background Changer](https://10projects1hour-anush.netlify.app/background-changer/)
 [3.Carousel](https://10projects1hour-anush.netlify.app/carousel/)
 [4.Dark Mode Toggle](https://10projects1hour-anush.netlify.app/dark-mode-toggle/)
