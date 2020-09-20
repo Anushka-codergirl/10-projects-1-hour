@@ -9,7 +9,7 @@ body{
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin: 0;
+    margin: 0 0 3rem;
     font-family: 'Satisfy', cursive;
 }
 
@@ -34,8 +34,11 @@ a:hover{
 }
 
 footer{
+    background-color: rgb(25, 125, 145);
+    width: 100%;
     font-size: 1.2rem;
     bottom: 0;
     position: fixed;
     color: white;
+    padding: 1rem;
 }
